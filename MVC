@@ -5,7 +5,7 @@ M means Model, V means View, C means Controller.
 #Benefits of MVC
 Reusability
 Easy maintain our application
-Many developers work at a time without 
+Many developers work at a time without effecting each other work
 It supports TTD(test-driven-development)
 
 
