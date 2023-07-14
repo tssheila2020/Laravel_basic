@@ -1,0 +1,11 @@
+#What is MVC?
+MVC is a programming Design Pattern or Methodology.
+M means Model, V means View, C means Controller.
+
+#Benefits of MVC
+Reusability
+Easy maintain our application
+Many developers work at a time without 
+It supports TTD(test-driven-development)
+
+
